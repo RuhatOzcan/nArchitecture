@@ -2,7 +2,14 @@
 <project version="4">
   <component name="UserContentModel">
     <attachedFolders />
-    <explicitIncludes />
+    <explicitIncludes>
+      <Path>src/corePackages/Core.Application</Path>
+      <Path>src/corePackages/Core.CrossCuttingConcers</Path>
+      <Path>src/corePackages/Core.ElasticSearch</Path>
+      <Path>src/corePackages/Core.Mailing</Path>
+      <Path>src/corePackages/Core.Persistence</Path>
+      <Path>src/corePackages/Core.Security</Path>
+    </explicitIncludes>
     <explicitExcludes />
   </component>
 </project>
